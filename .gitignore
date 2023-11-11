@@ -34,3 +34,6 @@ build/
 
 ### Personal ###
 notes.md
+
+### ENV File ###
+.env
