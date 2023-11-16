@@ -21,7 +21,7 @@ You can access the API at `http://localhost:8080/api/v1/movies`.
 
 ## Cross-Origin Resource Sharing (CORS)
 
-The API is configured to allow CORS requests from `http://localhost:3000`. If you're running a client application on a different URL, you'll need to update the `@CrossOrigin` annotation in `MovieController.java`.
+The API is configured to allow CORS requests from `http://localhost:3000`. If you're running a [client application](https://github.com/Arpan3323/movie-review-service-frontend) on a different URL, you'll need to update the `@CrossOrigin` annotation in `MovieController.java` and `ReviewController.java`.
 
 ## Dependencies
 
